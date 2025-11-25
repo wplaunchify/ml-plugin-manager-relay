@@ -1,9 +1,5 @@
 {
-  "version": "4.0.8",
+  "version": "4.0.9",
   "download_url": "https://ka264pwkgd.wpdns.site/wp-content/uploads/ml-releases/ml-plugin-manager.zip",
-  "changelog": "v4.0.8: FIXED - Fetches inventory.json from public relay repo. Shows real plugins instead of demo plugins. Simplified approval system with 24-hour grace period.",
-  "release_date": "2025-11-25",
-  "minimum_wp_version": "5.0",
-  "tested_up_to": "6.4"
+  "changelog": "v4.0.9: Removed tier filtering system (all approved sites get all plugins). v4.0.8: Fixed inventory fetching from public relay repo. v4.0.7: Implemented public approved-sites.json check with 24hr grace period. v4.0.6: Initial release with token-less authentication."
 }
-
