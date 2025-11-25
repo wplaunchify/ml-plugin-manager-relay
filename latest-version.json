@@ -1,5 +1,5 @@
 {
-  "version": "4.0.9",
+  "version": "4.1.0",
   "download_url": "https://ka264pwkgd.wpdns.site/wp-content/uploads/ml-releases/ml-plugin-manager.zip",
-  "changelog": "v4.0.9: Removed tier filtering system (all approved sites get all plugins). v4.0.8: Fixed inventory fetching from public relay repo. v4.0.7: Implemented public approved-sites.json check with 24hr grace period. v4.0.6: Initial release with token-less authentication."
+  "changelog": "v4.1.0: COMPLETE removal of GitHub token dependencies for updates - all update checks now use public relay repo. v4.0.9: Removed tier filtering system. v4.0.8: Fixed inventory fetching. v4.0.7: Implemented approved-sites.json check with 24hr grace period."
 }
