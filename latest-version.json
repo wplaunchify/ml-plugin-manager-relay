@@ -1,0 +1,9 @@
+{
+  "version": "4.0.7",
+  "download_url": "https://ka264pwkgd.wpdns.site/wp-content/uploads/ml-releases/ml-plugin-manager.zip",
+  "changelog": "v4.0.7: Simplified approval system with 24-hour grace period. No token needed. Graceful failure ensures sites stay online during maintenance.",
+  "release_date": "2025-11-25",
+  "minimum_wp_version": "5.0",
+  "tested_up_to": "6.4"
+}
+
