@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-25T08:30:00Z",
+  "last_updated": "2025-11-25T12:30:00Z",
   "total_plugins": 11,
   "plugins": [
     {
@@ -13,7 +13,7 @@
     {
       "slug": "ml-cursor-mcp",
       "name": "ML Cursor MCP",
-      "version": "1.0.0",
+      "version": "1.0.8",
       "file": "ml-cursor-mcp.php",
       "description": "Cursor IDE integration",
       "category": "Development"
@@ -21,7 +21,7 @@
     {
       "slug": "ml-design-clone",
       "name": "ML Design Clone",
-      "version": "1.0.0",
+      "version": "3.2.0",
       "file": "ml-design-clone.php",
       "description": "Clone and replicate designs",
       "category": "Design"
@@ -37,7 +37,7 @@
     {
       "slug": "ml-flow-video",
       "name": "ML Flow Video",
-      "version": "1.0.0",
+      "version": "8.1.0",
       "file": "ml-flow-video.php",
       "description": "Video workflow automation",
       "category": "Media"
@@ -45,7 +45,7 @@
     {
       "slug": "ml-image-compositor",
       "name": "ML Image Compositor",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "file": "ml-image-compositor.php",
       "description": "Advanced image composition",
       "category": "Media"
@@ -53,7 +53,7 @@
     {
       "slug": "ml-image-editor",
       "name": "ML Image Editor",
-      "version": "1.0.0",
+      "version": "5.8.0",
       "file": "ml-image-editor.php",
       "description": "AI-powered image editing",
       "category": "Media"
@@ -61,7 +61,7 @@
     {
       "slug": "ml-launchkit-mcp",
       "name": "ML LaunchKit MCP",
-      "version": "1.0.0",
+      "version": "1.4.2",
       "file": "ml-launchkit-mcp.php",
       "description": "LaunchKit integration",
       "category": "Development"
@@ -69,7 +69,7 @@
     {
       "slug": "ml-media-hub-p2p",
       "name": "ML Media Hub P2P",
-      "version": "1.0.0",
+      "version": "3.8.0",
       "file": "ml-media-hub-p2p.php",
       "description": "Peer-to-peer media sharing",
       "category": "Media"
@@ -77,7 +77,7 @@
     {
       "slug": "ml-spencestyle",
       "name": "ML Spence Style",
-      "version": "1.0.0",
+      "version": "6.2.4",
       "file": "ml-spencestyle.php",
       "description": "Spence's custom styling system",
       "category": "Design"
@@ -85,7 +85,7 @@
     {
       "slug": "ml-video-scripts",
       "name": "ML Video Scripts",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "file": "ml-video-scripts.php",
       "description": "Video script generation",
       "category": "Media"
