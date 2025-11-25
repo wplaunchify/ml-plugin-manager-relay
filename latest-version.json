@@ -1,5 +1,5 @@
 {
-  "version": "4.1.0",
-  "download_url": "https://ka264pwkgd.wpdns.site/wp-content/uploads/ml-releases/ml-plugin-manager.zip",
-  "changelog": "v4.1.0: COMPLETE removal of GitHub token dependencies for updates - all update checks now use public relay repo. v4.0.9: Removed tier filtering system. v4.0.8: Fixed inventory fetching. v4.0.7: Implemented approved-sites.json check with 24hr grace period."
+  "version": "4.1.2",
+  "download_url": "https://raw.githubusercontent.com/wplaunchify/ml-plugin-manager-relay/main/ml-plugin-manager.zip",
+  "changelog": "v4.1.2: Fixed API keys fetch to use public relay (eliminates 401 errors). v4.1.1: Fixed ML Canvas Block version display (2.7.8 to 3.0.5). v4.1.0: COMPLETE removal of GitHub token dependencies for updates."
 }
